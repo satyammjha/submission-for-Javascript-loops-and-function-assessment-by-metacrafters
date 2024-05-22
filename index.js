@@ -26,6 +26,7 @@ function getTotalSupply() {
 
 mintNFT("Satyam's NFT", "Satyam Jha", "22/05/24");
 mintNFT("Football's NFT", "Messi", "22/05/24");
+mintNFT("Cricket's NFT", "Virat Kohli", "22/05/24);
 
 listNFTs();
 getTotalSupply();
